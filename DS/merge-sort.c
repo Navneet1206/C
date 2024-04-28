@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 void merge(int arr[], int left, int mid, int right)
